@@ -1,32 +1,25 @@
 # ChristmasTree
 
-You know, a Christmas tree on Bash :)
-
-![Screenshot](./screenshot.png?raw=true)
-
 # Usage
 
 Via cURL:
 
 ```
 # English version
-curl https://raw.githubusercontent.com/iamx1x1/ChristmasTree/master/tree-EN.sh | bash
-
-# Spanish version
-curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+curl https://github.com/iamx1xx1/ChristmasTree.git/master/start-to-christmas tree.sh | bash
 ```
 
 Via Wget:
 
 ```
 # English version
-wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
+wget -qO- https://github.com/iamx1xx1/ChristmasTree.git/master/start-to-christmas tree.sh | bash | bash
 ```
 
 Git clone and execute:
 
 ```
-git clone https://github.com/sergiolepore/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-EN.sh
+git clone ttps://github.com/iamx1xx1/ChristmasTree.git && cd ./ChristmasTree && bash start-to-christmas tree.sh
 ```
 
 __Enjoy!__
