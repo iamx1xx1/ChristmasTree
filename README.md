@@ -6,20 +6,20 @@ Via cURL:
 
 ```
 # English version
-curl https://github.com/iamx1xx1/ChristmasTree.git/master/start-to-christmas tree.sh | bash
+curl https://github.com/iamx1xx1/ChristmasTree.git/master/start-to-christmas-tree.sh | bash
 ```
 
 Via Wget:
 
 ```
 # English version
-wget -qO- https://github.com/iamx1xx1/ChristmasTree.git/master/start-to-christmas tree.sh | bash | bash
+wget -qO- https://github.com/iamx1xx1/ChristmasTree.git/master/start-to-christmas-tree.sh | bash | bash
 ```
 
 Git clone and execute:
 
 ```
-git clone ttps://github.com/iamx1xx1/ChristmasTree.git && cd ./ChristmasTree && bash start-to-christmas tree.sh
+git clone https://github.com/iamx1xx1/ChristmasTree.git && cd ./ChristmasTree && bash start-to-christmas-tree.sh
 ```
 
 __Enjoy!__
